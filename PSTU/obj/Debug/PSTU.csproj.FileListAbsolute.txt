@@ -1,0 +1,51 @@
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\PSTU.dll.config
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\PSTU.dll
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\PSTU.pdb
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\System.Web.Helpers.dll
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\System.Web.Mvc.dll
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\System.Web.Razor.dll
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\System.Web.Webpages.dll
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\System.Web.Webpages.Razor.dll
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\System.Web.Razor.xml
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\System.Web.Webpages.xml
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\System.Web.Webpages.Razor.xml
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\System.Web.Helpers.xml
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\System.Web.Mvc.xml
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\obj\Debug\PSTU.dll
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\obj\Debug\PSTU.pdb
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\Antlr3.Runtime.dll
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\Newtonsoft.Json.dll
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\System.Web.Optimization.dll
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\WebGrease.dll
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\Antlr3.Runtime.pdb
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\Newtonsoft.Json.xml
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\bin\System.Web.Optimization.xml
+C:\Users\Md.Shafiuzzaman\documents\visual studio 2013\Projects\PSTU\PSTU\obj\Debug\PSTU.csprojResolveAssemblyReference.cache
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\PSTU.dll.config
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\PSTU.dll
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\PSTU.pdb
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\Antlr3.Runtime.dll
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\Microsoft.Web.Infrastructure.dll
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\MySql.Data.dll
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\Newtonsoft.Json.dll
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\System.Web.Helpers.dll
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\System.Web.Optimization.dll
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\System.Web.Razor.dll
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\System.Web.Webpages.Deployment.dll
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\System.Web.Webpages.dll
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\System.Web.Webpages.Razor.dll
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\WebGrease.dll
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\Antlr3.Runtime.pdb
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\Newtonsoft.Json.xml
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\System.Web.Optimization.xml
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\System.Web.Razor.xml
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\System.Web.Webpages.xml
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\System.Web.Webpages.Deployment.xml
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\System.Web.Webpages.Razor.xml
+D:\GIT_REPO\PSTU\PSTU\PSTU\bin\System.Web.Helpers.xml
+D:\GIT_REPO\PSTU\PSTU\PSTU\obj\Debug\PSTU.csprojResolveAssemblyReference.cache
+D:\GIT_REPO\PSTU\PSTU\PSTU\obj\Debug\PSTU.dll
+D:\GIT_REPO\PSTU\PSTU\PSTU\obj\Debug\PSTU.pdb

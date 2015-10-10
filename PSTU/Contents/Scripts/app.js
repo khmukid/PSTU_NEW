@@ -1,0 +1,1 @@
+﻿var pstuApp = angular.module("pstuApp", []);
