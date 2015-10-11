@@ -13,7 +13,7 @@ namespace PSTU.Controllers
         public ActionResult Step(string id)
         {
             ViewData["step"] = id;
-            return View();
+            return View("Step"+id);
         }
 	}
 }
