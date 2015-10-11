@@ -870,6 +870,7 @@
     <Content Include="Contents\bower_components\raphael\bower.json" />
     <Content Include="Views\Shared\_MasterLayout.cshtml" />
     <Content Include="Views\Home\Home.cshtml" />
+    <Content Include="Views\Steps\Step.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

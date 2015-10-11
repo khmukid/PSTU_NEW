@@ -12,8 +12,9 @@ namespace PSTU.Controllers
         // GET: /PSTUSteps/
         public ActionResult Step(string id)
         {
-            ViewData["step"] = id;
-            return View("Step"+id);
+            if (String.Empty == id) { id = Convert.ToString(1); }
+            ViewData["step_id"] =id;
+            return View("Step");
         }
 	}
 }
