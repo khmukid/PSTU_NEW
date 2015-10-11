@@ -45,10 +45,7 @@ namespace PSTU.Controllers
             connection_open = false;
 
             connection = new MySqlConnection();
-            //connection = DB_Connect.Make_Connnection(ConfigurationManager.ConnectionStrings["SQLConnection"].ConnectionString);
             connection.ConnectionString = ConfigurationManager.ConnectionStrings["MySQLConnection"].ConnectionString;
-
-            //            if (db_manage_connnection.DB_Connect.OpenTheConnection(connection))
             if (Open_Local_Connection())
             {
                 connection_open = true;
