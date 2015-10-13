@@ -1,21 +1,22 @@
 ﻿pstuApp.controller('loginController', function ($scope, loginService) {
-     
-    $scope.login = function()
-    {
-        //var user = {
-        //    user_id: $scope.userName,
-        //    password: $scope.password
-        //};
+    $scope.isLoggedIn = false;
 
-        if ($scope.userName != null)
-        {
-            loginService.AddUser($scope.userName, $scope.password);
+    $scope.login = function () {
+        if ($scope.username != null && $scope.password != null) {
+            loginService.Login($scope.username, $scope.password).then(function (val) {
+                $scope.isLoggedIn = val;
+                if ($scope.isLoggedIn == "True") {
+                    $window.location.href = '/Steps/Step/1';
+
+                }
+
+            });
+
         }
-       
+
     }
 
-    $scope.init = function()
-    {
+    $scope.init = function () {
 
     }
 });

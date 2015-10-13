@@ -1,23 +1,14 @@
-﻿pstuApp.service('loginService', function ($http) {
+﻿pstuApp.service('loginService', function ($http, $q) {
 
-    // Add User
+    this.Login = function (userID, password) {
 
-    this.AddUser = function (userID, password) {
-
-        var response = $http({
-
-            method: "post",
-
-            url: "Login/AddUser",
-
-            data: {
-
-                userID: userID
-
-            }
-
-        });
-        return response;
+        var deffered = $q.defer();
+        $http.get('/Login/DoLogin?username=' + userID + '&password=' + password)
+            .success(deffered.resolve)
+            .error(deffered.reject);
+        return deffered.promise;
 
     }
 });
+
+
