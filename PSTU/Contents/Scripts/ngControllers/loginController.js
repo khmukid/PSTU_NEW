@@ -1,4 +1,4 @@
-﻿pstuApp.controller('loginController', function ($scope, loginService) {
+﻿pstuApp.controller('loginController', function ($scope,$window, loginService) {
     $scope.isLoggedIn = false;
 
     $scope.login = function () {

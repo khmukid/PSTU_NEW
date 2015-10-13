@@ -536,6 +536,7 @@
     <Content Include="Contents\Scripts\Lib\morris-data.js" />
     <Content Include="Contents\Scripts\Lib\sb-admin-2.js" />
     <Content Include="Contents\Scripts\ngControllers\loginController.js" />
+    <Content Include="Contents\Scripts\ngControllers\stepController.js" />
     <Content Include="Contents\Scripts\ngServices\loginService.js" />
     <Content Include="Global.asax" />
     <Content Include="Contents\Scripts\Lib\angular.min.js" />
